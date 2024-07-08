@@ -200,7 +200,7 @@ h6 {
 }
 
 .mobile-nav-toggle i {
-  color: #149ddd;
+  color:transparent;
 }
 
 .mobile-nav-active {
@@ -212,7 +212,7 @@ h6 {
 }
 
 .mobile-nav-active .mobile-nav-toggle i {
-  color: #fff;
+  color: transparent;
 }
 
 /*--------------------------------------------------------------
